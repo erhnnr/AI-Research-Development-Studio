@@ -6,8 +6,8 @@ Last Updated: 2026-07-27
 ---
 
 ## Purpose
-Research modunun doğruladığı bilgiyi/varsayımı alıp, çalışan bir
-çözüme (kod, prototip, sistem) dönüştürmek.
+Research tarafından yeterince desteklenen bilgi ve hipotezleri,
+test edilebilir çalışan çözümlere (kod, prototip, sistem) dönüştürmek.
 
 ---
 
@@ -33,6 +33,7 @@ Research modunun doğruladığı bilgiyi/varsayımı alıp, çalışan bir
 **Working Solution** — çalışan kod/prototip + kısa bir not:
 - Ne inşa edildi
 - Hangi varsayım test ediliyor
+- Alınan temel teknik kararlar
 - Bilinen sınırlamalar/eksikler
 
 ---
