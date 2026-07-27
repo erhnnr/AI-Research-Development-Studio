@@ -1,6 +1,6 @@
 # STUDIO OPERATING MODEL
 
-Version: 0.1
+Version: 0.2
 Status: Draft
 Last Updated: 2026-07-27
 
@@ -88,13 +88,19 @@ External Signals
         │
         ▼
 Real World Feedback
+        │
+        ▼
+   Knowledge
+        │
+        ▼
+ Strategy (new cycle)
 ```
 
 The operating model is cyclical.
 
-Every released solution generates new feedback from the real world.
+Every released solution generates Real World Feedback. This feedback first enters the Knowledge layer, where it is preserved as lessons, decisions, and data — not lost, not overwritten.
 
-That feedback becomes new signals, starting the next improvement cycle.
+From there, it informs new signals, starting the next Strategy cycle.
 
 ---
 
@@ -126,11 +132,13 @@ Working Solution
 Validated Solution
     ↓
 Sustainable Value
+    ↓
+Preserved Knowledge
 ```
 
 The Studio is not organized around software development.
 
-It is organized around the transformation of information into validated value.
+It is organized around the transformation of information into validated value — and the preservation of everything learned along the way.
 
 ---
 
